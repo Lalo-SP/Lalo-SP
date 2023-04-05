@@ -1,4 +1,5 @@
 # Bienvenido 👋
+https://github.com/LaloSP-dev/LaloSP-dev/blob/main/Imagen1.gif
 
 ## Hola! Soy Eduardo
 - 💻 Lic. en Computación
