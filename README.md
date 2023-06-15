@@ -10,13 +10,12 @@
 
 ## Lenguajes y Tecnologias
 
-<br />
 <div>
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,spring,js,html,css,bootstrap,nodejs,py,vscode" />
-  </a>
-</p>
+  <p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=c,java,spring,js,html,css,bootstrap,nodejs,py,vscode" />
+   </a>
+ </p>
 </div> 
 <br>
 
