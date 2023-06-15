@@ -10,3 +10,4 @@
 
 ## GitHub Stats 📈
 ![Mis stats](https://github-readme-stats.vercel.app/api?username=LaloSP-dev&theme=gruvbox&show_icons=true)
+![Mis lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=LaloSP-dev&theme=gruvbox)
