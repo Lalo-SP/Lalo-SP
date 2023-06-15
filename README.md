@@ -17,7 +17,6 @@
    </a>
  </p>
 </div> 
-<br>
 
 ## GitHub Stats 📈
 ![Mis stats](https://github-readme-stats.vercel.app/api?username=LaloSP-dev&theme=gruvbox&show_icons=true)
