@@ -8,5 +8,5 @@
 - 🤔 Me gusta aprender nuevas tecnologías
 - 🌱 Actualmente estoy aprendiendo manejo de asistentes digitales de Amazon (Alexa)
 
-# GitHub Stats 📈
+## GitHub Stats 📈
 ![Mis stats](https://github-readme-stats.vercel.app/api?username=LaloSP-dev&theme=gruvbox&show_icons=true)
