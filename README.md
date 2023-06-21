@@ -1,6 +1,8 @@
 # Bienvenido 👋
 
-![Imagen de Bienvenida](https://github.com/LaloSP-dev/LaloSP-dev/blob/main/banner.gif)
+<p align="center">
+  <img src="banner.gif" alt="Mi banner" />
+</p>
 
 ## Hola! Soy Eduardo
 - 💻 Lic. en Computación
