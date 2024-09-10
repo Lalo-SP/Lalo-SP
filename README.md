@@ -8,14 +8,15 @@
 - 💻 Lic. en Computación
 - 📚 Estudiante de la Universidad Autónoma Metropolitana
 - 🤔 Me gusta aprender nuevas tecnologías
-- 🌱 Actualmente estoy aprendiendo manejo de asistentes digitales de Amazon (Alexa)
+- 🌱 Desarrollador Frontend y Backend | QA Automatización
+  - He trabajado en el desarrollo y mantenimiento de aplicaciones. Además, me he enfocado en la implementación de pruebas automatizadas para asegurar la calidad del software y optimizar procesos.
 
 ## Lenguajes y Tecnologias
 
 <div>
   <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=c,java,spring,js,html,css,bootstrap,nodejs,py,vscode" />
+     <img src="https://skillicons.dev/icons?i=c,java,spring,html,css,angular,js,ts,cs,dotnet,selenium,nodejs,py,bootstrap" />
    </a>
  </p>
 </div> 
