@@ -22,6 +22,6 @@
 </div> 
 
 ## GitHub Stats 📈
-![Mis stats](https://github-readme-stats.vercel.app/api?username=LaloSP-dev&theme=gruvbox&show_icons=true)
+![Mis stats](https://github-readme-stats.vercel.app/api?username=LaloSP-dev&theme=gruvbox&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 <br>
 ![Mis lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=LaloSP-dev&theme=gruvbox)
